@@ -1,0 +1,27 @@
+{
+  "name": "backend-learning-journey",
+  "version": "1.0.0",
+  "description": "My backend development learning journey. Covering Node.js fundamentals, Express.js APIs, SQL (MySQL), and NoSQL (MongoDB).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "node": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abdullahimusa2958/backend-learning-journey.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/abdullahimusa2958/backend-learning-journey/issues"
+  },
+  "homepage": "https://github.com/abdullahimusa2958/backend-learning-journey#readme",
+  "dependencies": {
+    "express": "^5.3.0",
+    "nodemon": "^3.1.14"
+  }
+}
